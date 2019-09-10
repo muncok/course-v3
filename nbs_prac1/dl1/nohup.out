@@ -1,0 +1,762 @@
+[I 05:59:16.547 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.6/site-packages/jupyterlab
+[I 05:59:16.547 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 05:59:16.549 NotebookApp] Serving notebooks from local directory: /WORKSPACE/course-v3/nbs/dl1
+[I 05:59:16.549 NotebookApp] The Jupyter Notebook is running at:
+[I 05:59:16.550 NotebookApp] http://(7ed51640cd00 or 127.0.0.1):8888/?token=8335f537ec0cbac53b39a1ebb731098a3dbe3dc363913d29
+[I 05:59:16.550 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 05:59:16.555 NotebookApp] No web browser found: could not locate runnable browser.
+[C 05:59:16.555 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///WORKSPACE/.local/share/jupyter/runtime/nbserver-287-open.html
+    Or copy and paste one of these URLs:
+        http://(7ed51640cd00 or 127.0.0.1):8888/?token=8335f537ec0cbac53b39a1ebb731098a3dbe3dc363913d29
+[W 05:59:21.212 NotebookApp] Not allowing login redirect to '/tree?'
+[I 05:59:21.212 NotebookApp] 302 POST /login?next=%2Ftree%3F (211.44.252.32) 2.37ms
+[I 05:59:21.221 NotebookApp] 302 GET / (211.44.252.32) 0.58ms
+[I 05:59:35.510 NotebookApp] Writing notebook-signing key to /WORKSPACE/.local/share/jupyter/notebook_secret
+[W 05:59:35.517 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 05:59:37.143 NotebookApp] Kernel started: 2814a130-5d56-484e-bd79-67079514c47c
+[I 05:59:38.932 NotebookApp] Adapting to protocol v5.1 for kernel 2814a130-5d56-484e-bd79-67079514c47c
+[I 06:01:37.259 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 06:01:37.261 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 06:03:37.583 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 06:03:37.585 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 06:05:37.261 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 06:05:37.263 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 06:07:37.259 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 06:07:37.261 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 06:09:37.252 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 06:09:37.253 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 06:43:37.239 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 06:43:37.279 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 06:45:37.243 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 06:45:37.246 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 06:47:37.250 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 06:47:37.252 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 06:49:37.243 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 06:49:37.245 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:01:37.237 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:01:37.239 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:05:37.218 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:05:37.220 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:07:37.211 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:07:37.213 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:09:37.216 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:09:37.218 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:19:37.213 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:19:37.216 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:21:37.218 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:21:37.220 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:23:37.207 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:23:37.210 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:25:37.205 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:25:37.207 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:27:37.209 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:27:37.211 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:29:37.206 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:29:37.208 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:31:37.332 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:31:37.333 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:33:37.321 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:33:37.323 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:39:37.217 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:39:37.219 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:41:37.208 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:41:37.209 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:43:37.207 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:43:37.208 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:45:37.202 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:45:37.204 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:46:03.503 NotebookApp] Kernel interrupted: 2814a130-5d56-484e-bd79-67079514c47c
+[I 07:47:06.841 NotebookApp] Kernel interrupted: 2814a130-5d56-484e-bd79-67079514c47c
+[I 07:47:37.206 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:47:37.208 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:49:37.192 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:49:37.193 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 07:51:42.053 NotebookApp] Saving file at /lesson1-pets.ipynb
+[W 07:51:42.055 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 08:48:43.393 NotebookApp] Starting buffering for 2814a130-5d56-484e-bd79-67079514c47c:0f72b4d2bb6747cc9a2d8978b7e3e716
+[W 08:48:50.196 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 08:48:52.035 NotebookApp] Kernel started: d05e4b47-f2b1-45d3-8888-9fb53dc96a5c
+[I 08:48:52.132 NotebookApp] 302 GET /notebooks/images/download_images/upload.png (211.44.252.32) 1.03ms
+[I 08:48:53.791 NotebookApp] Adapting to protocol v5.1 for kernel d05e4b47-f2b1-45d3-8888-9fb53dc96a5c
+[I 08:50:52.139 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 08:50:52.142 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 08:56:52.139 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 08:56:52.141 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:07:10.371 NotebookApp] Creating new directory in 
+[I 09:07:44.185 NotebookApp] Uploading file to /rel_buildings/church.csv
+[I 09:07:44.998 NotebookApp] Uploading file to /rel_buildings/temple.csv
+[I 09:07:45.568 NotebookApp] Uploading file to /rel_buildings/mosque.csv
+[I 09:08:52.135 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:08:52.136 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[W 09:09:41.279 NotebookApp] delete /data/building
+[I 09:10:52.126 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:10:52.128 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[W 09:11:20.117 NotebookApp] 404 PATCH /api/contents/rel_buildings/church.csv (211.44.252.32): ../data/rel_buildings/church.csv is outside root contents directory
+[W 09:11:20.117 NotebookApp] ../data/rel_buildings/church.csv is outside root contents directory
+[W 09:11:20.117 NotebookApp] 404 PATCH /api/contents/rel_buildings/church.csv (211.44.252.32) 1.61ms referer=http://147.46.112.197:8888/tree/rel_buildings
+[W 09:11:20.119 NotebookApp] 404 PATCH /api/contents/rel_buildings/mosque.csv (211.44.252.32): ../data/rel_buildings/mosque.csv is outside root contents directory
+[W 09:11:20.119 NotebookApp] ../data/rel_buildings/mosque.csv is outside root contents directory
+[W 09:11:20.119 NotebookApp] 404 PATCH /api/contents/rel_buildings/mosque.csv (211.44.252.32) 1.15ms referer=http://147.46.112.197:8888/tree/rel_buildings
+[W 09:11:20.121 NotebookApp] 404 PATCH /api/contents/rel_buildings/temple.csv (211.44.252.32): ../data/rel_buildings/temple.csv is outside root contents directory
+[W 09:11:20.121 NotebookApp] ../data/rel_buildings/temple.csv is outside root contents directory
+[W 09:11:20.121 NotebookApp] 404 PATCH /api/contents/rel_buildings/temple.csv (211.44.252.32) 1.08ms referer=http://147.46.112.197:8888/tree/rel_buildings
+[W 09:11:38.323 NotebookApp] 404 PATCH /api/contents/rel_buildings/church.csv (211.44.252.32): ../church.csv is outside root contents directory
+[W 09:11:38.323 NotebookApp] ../church.csv is outside root contents directory
+[W 09:11:38.323 NotebookApp] 404 PATCH /api/contents/rel_buildings/church.csv (211.44.252.32) 1.70ms referer=http://147.46.112.197:8888/tree/rel_buildings
+[W 09:11:38.324 NotebookApp] 404 PATCH /api/contents/rel_buildings/mosque.csv (211.44.252.32): ../mosque.csv is outside root contents directory
+[W 09:11:38.324 NotebookApp] ../mosque.csv is outside root contents directory
+[W 09:11:38.325 NotebookApp] 404 PATCH /api/contents/rel_buildings/mosque.csv (211.44.252.32) 1.24ms referer=http://147.46.112.197:8888/tree/rel_buildings
+[W 09:11:38.326 NotebookApp] 404 PATCH /api/contents/rel_buildings/temple.csv (211.44.252.32): ../temple.csv is outside root contents directory
+[W 09:11:38.326 NotebookApp] ../temple.csv is outside root contents directory
+[W 09:11:38.326 NotebookApp] 404 PATCH /api/contents/rel_buildings/temple.csv (211.44.252.32) 1.17ms referer=http://147.46.112.197:8888/tree/rel_buildings
+[W 09:11:49.183 NotebookApp] delete /rel_buildings/church.csv
+[W 09:11:49.185 NotebookApp] delete /rel_buildings/mosque.csv
+[W 09:11:49.187 NotebookApp] delete /rel_buildings/temple.csv
+[W 09:11:52.512 NotebookApp] delete /rel_buildings
+[I 09:12:02.272 NotebookApp] Uploading file to /data/rel_building/church.csv
+[I 09:12:02.800 NotebookApp] Uploading file to /data/rel_building/mosque.csv
+[I 09:12:09.625 NotebookApp] Uploading file to /data/rel_building/temple.csv
+[I 09:12:52.454 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:12:52.456 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:14:52.141 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:14:52.143 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:16:52.119 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:16:52.121 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:18:52.239 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:18:52.241 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:22:52.122 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:22:52.124 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:23:58.791 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:23:58.793 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:24:52.482 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:24:52.484 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:26:52.124 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:26:52.126 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:27:45.398 NotebookApp] Kernel shutdown: 2814a130-5d56-484e-bd79-67079514c47c
+[I 09:28:52.124 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:28:52.126 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:30:52.423 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:30:52.425 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[W 09:32:04.210 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[I 09:32:05.708 NotebookApp] Kernel started: 23d28b9e-3761-4516-aa6e-084f314e74b9
+[I 09:32:07.527 NotebookApp] Adapting to protocol v5.1 for kernel 23d28b9e-3761-4516-aa6e-084f314e74b9
+[I 09:32:22.220 NotebookApp] Starting buffering for 23d28b9e-3761-4516-aa6e-084f314e74b9:fcb69e51b23d496382ea67c7e0cae4c8
+[I 09:32:52.137 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:32:52.139 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:33:26.178 NotebookApp] Kernel interrupted: d05e4b47-f2b1-45d3-8888-9fb53dc96a5c
+[I 09:34:52.118 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:34:52.121 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:36:52.123 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:36:52.126 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:38:52.120 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:38:52.122 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:40:52.119 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:40:52.120 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:42:52.118 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:42:52.120 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:44:52.125 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:44:52.127 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:46:52.125 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:46:52.127 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:48:52.119 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:48:52.121 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:50:52.126 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:50:52.127 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:56:52.120 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:56:52.122 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 09:57:20.893 NotebookApp] Kernel interrupted: d05e4b47-f2b1-45d3-8888-9fb53dc96a5c
+[I 09:57:22.000 NotebookApp] Kernel interrupted: d05e4b47-f2b1-45d3-8888-9fb53dc96a5c
+[I 09:57:22.192 NotebookApp] Kernel interrupted: d05e4b47-f2b1-45d3-8888-9fb53dc96a5c
+[I 09:58:52.119 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 09:58:52.121 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 10:00:52.111 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 10:00:52.113 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 10:02:52.113 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 10:02:52.114 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 10:04:52.115 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 10:04:52.117 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 10:06:52.111 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 10:06:52.113 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 10:08:52.121 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 10:08:52.123 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 10:10:52.225 NotebookApp] Saving file at /lesson2-download.ipynb
+[W 10:10:52.227 NotebookApp] Notebook lesson2-download.ipynb is not trusted
+[I 10:48:09.179 NotebookApp] Starting buffering for d05e4b47-f2b1-45d3-8888-9fb53dc96a5c:9857ab284b3d4a7f801676b6d29a63a6
+[I 10:48:11.194 NotebookApp] Kernel shutdown: d05e4b47-f2b1-45d3-8888-9fb53dc96a5c
+[W 10:48:20.335 NotebookApp] Notebook lesson2-sgd.ipynb is not trusted
+[I 10:48:21.357 NotebookApp] Kernel started: 7622ab7c-9045-4528-a5c2-d9cc8a1bb216
+[I 10:48:23.185 NotebookApp] Adapting to protocol v5.1 for kernel 7622ab7c-9045-4528-a5c2-d9cc8a1bb216
+[I 10:48:30.837 NotebookApp] Starting buffering for 7622ab7c-9045-4528-a5c2-d9cc8a1bb216:c1195a9e4ee84c24827c669972d0f80a
+[W 10:48:37.181 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 10:48:38.452 NotebookApp] Kernel started: 7ec9cf18-21a0-4a03-8926-336c4d15d9bb
+[I 10:48:40.243 NotebookApp] Adapting to protocol v5.1 for kernel 7ec9cf18-21a0-4a03-8926-336c4d15d9bb
+[I 10:50:38.537 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 10:50:38.540 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[W 11:37:49.701 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 11.67ms referer=None
+[I 12:27:53.216 NotebookApp] Uploading file to /kaggle.json
+[I 12:28:39.101 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 12:28:39.102 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 12:30:38.468 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 12:30:38.469 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 12:32:38.463 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 12:32:38.464 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 12:34:38.491 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 12:34:38.493 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 12:36:38.467 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 12:36:38.468 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 12:38:39.117 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 12:38:39.119 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:12:38.507 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:12:38.508 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:14:38.486 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:14:38.487 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:16:38.504 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:16:38.505 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:18:39.105 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:18:39.106 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:20:38.479 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:20:38.480 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:22:38.475 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:22:38.476 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:26:38.467 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:26:38.469 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:28:38.464 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:28:38.466 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:30:38.476 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:30:38.478 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:32:38.469 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:32:38.470 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:34:38.462 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:34:38.464 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:36:38.465 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:36:38.467 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:38:38.772 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:38:38.774 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:40:38.474 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:40:38.476 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:42:38.460 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:42:38.462 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:44:38.461 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:44:38.463 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:46:38.460 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:46:38.462 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:46:42.612 NotebookApp] Kernel interrupted: 7ec9cf18-21a0-4a03-8926-336c4d15d9bb
+[I 13:46:44.011 NotebookApp] Starting buffering for 7ec9cf18-21a0-4a03-8926-336c4d15d9bb:10b57c30c4aa4f8d820b27e1d5d33646
+[I 13:46:45.721 NotebookApp] Kernel shutdown: 7ec9cf18-21a0-4a03-8926-336c4d15d9bb
+[I 13:46:46.813 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 13:46:46.815 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 13:46:51.157 NotebookApp] Kernel shutdown: 23d28b9e-3761-4516-aa6e-084f314e74b9
+[I 13:46:51.886 NotebookApp] Kernel shutdown: 7622ab7c-9045-4528-a5c2-d9cc8a1bb216
+[W 13:46:56.800 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 13:46:58.124 NotebookApp] Kernel started: 7ac61ff3-8c6f-4f4c-bfbd-2829ad46760f
+[I 13:46:59.765 NotebookApp] Adapting to protocol v5.1 for kernel 7ac61ff3-8c6f-4f4c-bfbd-2829ad46760f
+[I 13:48:58.345 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 13:48:58.346 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 13:50:58.651 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 13:50:58.652 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 13:52:58.686 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 13:52:58.687 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 13:54:58.334 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 13:54:58.335 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:06:58.342 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 14:06:58.343 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:07:20.718 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 14:07:20.719 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:07:21.014 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 14:07:21.015 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:08:58.323 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 14:08:58.324 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:12:58.328 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 14:12:58.329 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:16:58.322 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 14:16:58.323 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:18:58.356 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 14:18:58.358 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:24:58.340 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 14:24:58.341 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:26:58.361 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 14:26:58.363 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:28:58.336 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 14:28:58.338 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:30:59.229 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 14:30:59.230 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:34:58.329 NotebookApp] Saving file at /lesson3-camvid.ipynb
+[W 14:34:58.331 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:35:08.073 NotebookApp] Kernel interrupted: 7ac61ff3-8c6f-4f4c-bfbd-2829ad46760f
+[I 14:35:11.968 NotebookApp] Starting buffering for 7ac61ff3-8c6f-4f4c-bfbd-2829ad46760f:6e62d6f655f84c03986612b4fd6a7bad
+[I 14:35:13.475 NotebookApp] Kernel shutdown: 7ac61ff3-8c6f-4f4c-bfbd-2829ad46760f
+[W 14:47:02.494 NotebookApp] Notebook lesson3-camvid.ipynb is not trusted
+[I 14:47:03.846 NotebookApp] Kernel started: 39c74899-a066-4f27-908e-e9328ef12b66
+[I 14:47:05.528 NotebookApp] Adapting to protocol v5.1 for kernel 39c74899-a066-4f27-908e-e9328ef12b66
+[W 14:48:27.127 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 14:48:28.565 NotebookApp] Kernel started: fab8728b-8e02-4c9d-960a-6bfa6e2e43a9
+[I 14:48:30.174 NotebookApp] Adapting to protocol v5.1 for kernel fab8728b-8e02-4c9d-960a-6bfa6e2e43a9
+[I 15:00:28.666 NotebookApp] Saving file at /lesson3-planet.ipynb
+[W 15:00:28.668 NotebookApp] Notebook lesson3-planet.ipynb is not trusted
+[I 15:17:57.871 NotebookApp] Kernel shutdown: 39c74899-a066-4f27-908e-e9328ef12b66
+[I 15:17:59.190 NotebookApp] Kernel shutdown: fab8728b-8e02-4c9d-960a-6bfa6e2e43a9
+[W 21:39:15.520 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.09ms referer=None
+[W 22:28:59.597 NotebookApp] 404 GET /v1/wallet/list_keys (193.29.15.60) 1.65ms referer=None
+[I 22:55:09.361 NotebookApp] 302 GET / (172.105.238.87) 0.76ms
+[I 02:18:40.264 NotebookApp] 302 GET / (164.52.24.175) 0.75ms
+[I 05:16:48.506 NotebookApp] 302 GET / (147.47.208.85) 0.90ms
+[I 05:34:52.590 NotebookApp] 302 GET / (172.247.55.189) 0.59ms
+[I 05:34:53.874 NotebookApp] 302 GET /tree? (172.247.55.189) 1.09ms
+[I 05:34:57.027 NotebookApp] 302 GET / (172.247.55.189) 0.82ms
+[I 05:34:57.291 NotebookApp] 302 GET /tree? (172.247.55.189) 0.71ms
+[I 05:34:58.847 NotebookApp] 302 GET / (172.247.55.189) 0.65ms
+[I 05:34:59.203 NotebookApp] 302 GET /tree? (172.247.55.189) 0.79ms
+[W 06:29:51.319 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[W 06:29:51.639 NotebookApp] Notebook lesson4-tabular.ipynb is not trusted
+[I 06:29:52.229 NotebookApp] Kernel started: b4b7040b-1edc-4243-89ae-9561167cd43b
+[I 06:29:52.415 NotebookApp] Kernel started: 2a9bb2f5-97ab-4bae-9fe9-207190557e5d
+[I 06:29:53.892 NotebookApp] Adapting to protocol v5.1 for kernel b4b7040b-1edc-4243-89ae-9561167cd43b
+[I 06:29:54.069 NotebookApp] Adapting to protocol v5.1 for kernel 2a9bb2f5-97ab-4bae-9fe9-207190557e5d
+[W 06:30:41.862 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 06:30:43.469 NotebookApp] Kernel started: 5ea83d4d-0697-44b2-8cc5-f42d0de982f8
+[I 06:30:45.148 NotebookApp] Adapting to protocol v5.1 for kernel 5ea83d4d-0697-44b2-8cc5-f42d0de982f8
+[I 06:31:53.018 NotebookApp] Saving file at /lesson4-tabular.ipynb
+[W 06:31:53.018 NotebookApp] Notebook lesson4-tabular.ipynb is not trusted
+[I 06:31:53.047 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 06:31:53.048 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 06:32:43.504 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 06:32:43.505 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 06:34:44.014 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 06:34:44.015 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 06:36:43.465 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 06:36:43.467 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 06:38:43.465 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 06:38:43.467 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 06:42:43.463 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 06:42:43.465 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 06:44:43.466 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 06:44:43.468 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:00:43.443 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:00:43.445 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:02:43.992 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:02:43.994 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:04:43.438 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:04:43.440 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:06:43.437 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:06:43.439 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:08:43.434 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:08:43.435 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:10:43.430 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:10:43.432 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:12:43.429 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:12:43.431 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:16:43.423 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:16:43.425 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:18:43.425 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:18:43.427 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:20:43.436 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:20:43.437 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:24:43.434 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:24:43.436 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:26:43.435 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:26:43.437 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:28:43.417 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:28:43.418 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:30:30.018 NotebookApp] Starting buffering for 2a9bb2f5-97ab-4bae-9fe9-207190557e5d:7a4fdf2b4e194b1a9e910dab09384222
+[I 07:30:43.451 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:30:43.454 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:32:43.416 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:32:43.418 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:34:43.413 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:34:43.415 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 07:36:43.425 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 07:36:43.427 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[W 07:37:15.126 NotebookApp] 404 GET http://dx.doi.org/ (106.38.55.18) 2.31ms referer=None
+[W 07:39:43.031 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.99ms referer=None
+[I 08:23:55.022 NotebookApp] Starting buffering for b4b7040b-1edc-4243-89ae-9561167cd43b:4dc598dad7e74efe8bf2c8ccaf4ddbf7
+[I 10:10:43.318 NotebookApp] Saving file at /lesson3-imdb.ipynb
+[W 10:10:43.320 NotebookApp] Notebook lesson3-imdb.ipynb is not trusted
+[I 10:10:50.129 NotebookApp] Starting buffering for 5ea83d4d-0697-44b2-8cc5-f42d0de982f8:9bed088f195e41e89c462822df7ac4c4
+[I 10:10:51.938 NotebookApp] Kernel shutdown: 5ea83d4d-0697-44b2-8cc5-f42d0de982f8
+[W 10:10:57.221 NotebookApp] Notebook lesson4-tabular.ipynb is not trusted
+[I 10:10:58.009 NotebookApp] Adapting to protocol v5.1 for kernel b4b7040b-1edc-4243-89ae-9561167cd43b
+[I 10:12:57.790 NotebookApp] Saving file at /lesson4-tabular.ipynb
+[W 10:12:57.790 NotebookApp] Notebook lesson4-tabular.ipynb is not trusted
+[I 10:14:57.788 NotebookApp] Saving file at /lesson4-tabular.ipynb
+[W 10:14:57.789 NotebookApp] Notebook lesson4-tabular.ipynb is not trusted
+[I 10:46:57.770 NotebookApp] Saving file at /lesson4-tabular.ipynb
+[W 10:46:57.770 NotebookApp] Notebook lesson4-tabular.ipynb is not trusted
+[I 10:48:57.818 NotebookApp] Saving file at /lesson4-tabular.ipynb
+[W 10:48:57.818 NotebookApp] Notebook lesson4-tabular.ipynb is not trusted
+[W 11:01:36.542 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 11:01:37.738 NotebookApp] Adapting to protocol v5.1 for kernel 2a9bb2f5-97ab-4bae-9fe9-207190557e5d
+[I 11:03:37.708 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 11:03:37.710 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 12:11:37.649 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 12:11:37.650 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 12:13:37.655 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 12:13:37.656 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 12:15:37.636 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 12:15:37.638 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 12:17:37.963 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 12:17:37.965 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 12:17:46.014 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 12:19:37.634 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 12:19:37.635 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 12:21:37.779 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 12:21:37.780 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 12:23:37.629 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 12:23:37.630 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 12:25:37.937 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 12:25:37.938 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 12:27:37.629 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 12:27:37.630 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 12:29:37.647 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 12:29:37.648 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 12:31:37.630 NotebookApp] Saving file at /lesson4-collab.ipynb
+[W 12:31:37.631 NotebookApp] Notebook lesson4-collab.ipynb is not trusted
+[I 12:31:52.504 NotebookApp] Saving file at /lesson4-collab.ipynb
+[I 12:31:53.188 NotebookApp] Starting buffering for 2a9bb2f5-97ab-4bae-9fe9-207190557e5d:1c9fab45d50a453c811a61deb249ec61
+[I 12:32:03.128 NotebookApp] Starting buffering for b4b7040b-1edc-4243-89ae-9561167cd43b:55a694bbbbea44d887a604ac1dd688a4
+[W 17:40:49.632 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 3.87ms referer=None
+[I 00:46:12.921 NotebookApp] 302 GET / (196.52.43.65) 1.31ms
+Websocket closed
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 03:21:52.563 NotebookApp] Kernel shutdown: b4b7040b-1edc-4243-89ae-9561167cd43b
+[I 03:21:55.426 NotebookApp] Kernel shutdown: 2a9bb2f5-97ab-4bae-9fe9-207190557e5d
+[W 03:21:55.428 NotebookApp] 404 DELETE /api/sessions/3b4a269e-5200-445a-8749-806690915a9d (147.47.208.85): Session not found: session_id='3b4a269e-5200-445a-8749-806690915a9d'
+[W 03:21:55.428 NotebookApp] Session not found: session_id='3b4a269e-5200-445a-8749-806690915a9d'
+[W 03:21:55.429 NotebookApp] 404 DELETE /api/sessions/3b4a269e-5200-445a-8749-806690915a9d (147.47.208.85) 1.27ms referer=http://147.46.112.197:8888/tree?
+[W 03:22:00.170 NotebookApp] Notebook lesson6-rossmann.ipynb is not trusted
+[I 03:22:01.142 NotebookApp] Kernel started: 2946606b-c586-4200-a17b-3e9df68d7c70
+[I 03:22:02.495 NotebookApp] Adapting to protocol v5.1 for kernel 2946606b-c586-4200-a17b-3e9df68d7c70
+[W 03:23:49.184 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 03:23:50.555 NotebookApp] Kernel started: 9b0b6150-4f39-4041-89a1-250a76bf731f
+[I 03:23:51.950 NotebookApp] Adapting to protocol v5.1 for kernel 9b0b6150-4f39-4041-89a1-250a76bf731f
+[I 03:24:01.195 NotebookApp] Saving file at /lesson6-rossmann.ipynb
+[W 03:24:01.198 NotebookApp] Notebook lesson6-rossmann.ipynb is not trusted
+[I 03:25:50.568 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 03:25:50.570 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 03:27:50.572 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 03:27:50.574 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 03:29:50.556 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 03:29:50.557 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 03:33:50.557 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 03:33:50.558 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 03:35:50.565 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 03:35:50.566 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 03:37:50.570 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 03:37:50.571 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 03:43:50.552 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 03:43:50.553 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[W 03:44:07.497 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.10ms referer=None
+[I 03:45:50.549 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 03:45:50.550 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[W 03:47:15.801 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (185.216.140.186) 1.74ms referer=None
+[I 03:47:50.549 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 03:47:50.550 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 03:49:50.548 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 03:49:50.549 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 03:51:50.565 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 03:51:50.566 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 04:05:50.558 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:05:50.559 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 04:07:50.556 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:07:50.558 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 04:09:50.540 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:09:50.542 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 04:11:50.609 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:11:50.611 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 04:13:50.555 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:13:50.556 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 04:15:50.550 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:15:50.551 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 04:19:50.549 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:19:50.550 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+Websocket closed
+[I 04:25:50.530 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:25:50.531 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+Websocket closed
+[I 04:26:16.138 NotebookApp] Kernel interrupted: 9b0b6150-4f39-4041-89a1-250a76bf731f
+[I 04:26:16.632 NotebookApp] Kernel interrupted: 9b0b6150-4f39-4041-89a1-250a76bf731f
+[I 04:26:16.807 NotebookApp] Kernel interrupted: 9b0b6150-4f39-4041-89a1-250a76bf731f
+[I 04:26:16.998 NotebookApp] Kernel interrupted: 9b0b6150-4f39-4041-89a1-250a76bf731f
+[I 04:26:17.182 NotebookApp] Kernel interrupted: 9b0b6150-4f39-4041-89a1-250a76bf731f
+[I 04:26:34.156 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:26:34.157 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 04:26:34.312 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:26:34.314 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 04:26:34.477 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:26:34.479 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 04:26:34.639 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:26:34.640 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 04:26:35.119 NotebookApp] Starting buffering for 9b0b6150-4f39-4041-89a1-250a76bf731f:65505eebf22d443985e9115fc48118f2
+[I 04:26:35.122 NotebookApp] Starting buffering for 2946606b-c586-4200-a17b-3e9df68d7c70:64fbc66d534f41db83483a4988ac3eb5
+[I 04:56:53.017 NotebookApp] 302 GET / (147.47.208.85) 0.87ms
+[W 04:56:57.386 NotebookApp] Notebook lesson6-rossmann.ipynb is not trusted
+[I 04:56:58.405 NotebookApp] Adapting to protocol v5.1 for kernel 2946606b-c586-4200-a17b-3e9df68d7c70
+[W 04:57:00.946 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 04:57:02.415 NotebookApp] Adapting to protocol v5.1 for kernel 9b0b6150-4f39-4041-89a1-250a76bf731f
+[I 04:59:02.258 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 04:59:02.259 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:01:02.249 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:01:02.250 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:03:02.248 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:03:02.250 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:07:02.235 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:07:02.236 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:09:02.247 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:09:02.249 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:11:02.243 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:11:02.245 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:13:02.248 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:13:02.249 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:15:02.231 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:15:02.233 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:17:02.250 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:17:02.252 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:19:02.233 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:19:02.235 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:21:02.228 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:21:02.230 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:23:02.242 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:23:02.243 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:25:02.228 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:25:02.229 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:27:02.246 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:27:02.247 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:29:02.477 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:29:02.479 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:30:05.048 NotebookApp] Saving file at /rossman_data_clean.ipynb
+[W 05:30:05.049 NotebookApp] Notebook rossman_data_clean.ipynb is not trusted
+[I 05:30:58.283 NotebookApp] Saving file at /lesson6-rossmann.ipynb
+[W 05:30:58.284 NotebookApp] Notebook lesson6-rossmann.ipynb is not trusted
+[I 05:32:58.298 NotebookApp] Saving file at /lesson6-rossmann.ipynb
+[W 05:32:58.299 NotebookApp] Notebook lesson6-rossmann.ipynb is not trusted
+[I 06:00:58.284 NotebookApp] Saving file at /lesson6-rossmann.ipynb
+[W 06:00:58.285 NotebookApp] Notebook lesson6-rossmann.ipynb is not trusted
+[I 06:02:58.264 NotebookApp] Saving file at /lesson6-rossmann.ipynb
+[W 06:02:58.265 NotebookApp] Notebook lesson6-rossmann.ipynb is not trusted
+[I 06:04:58.259 NotebookApp] Saving file at /lesson6-rossmann.ipynb
+[W 06:04:58.260 NotebookApp] Notebook lesson6-rossmann.ipynb is not trusted
+[I 06:06:58.472 NotebookApp] Saving file at /lesson6-rossmann.ipynb
+[W 06:06:58.473 NotebookApp] Notebook lesson6-rossmann.ipynb is not trusted
+[I 06:08:58.258 NotebookApp] Saving file at /lesson6-rossmann.ipynb
+[W 06:08:58.259 NotebookApp] Notebook lesson6-rossmann.ipynb is not trusted
+[W 06:09:41.509 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[I 06:09:42.849 NotebookApp] Kernel started: 2e1c9dcb-db28-4064-9fdc-9c1f8ceb32b1
+[I 06:09:44.305 NotebookApp] Adapting to protocol v5.1 for kernel 2e1c9dcb-db28-4064-9fdc-9c1f8ceb32b1
+[I 06:09:46.098 NotebookApp] Starting buffering for 2946606b-c586-4200-a17b-3e9df68d7c70:2ebf826013f0496e88f0d48fa350003a
+[I 06:09:47.050 NotebookApp] Starting buffering for 9b0b6150-4f39-4041-89a1-250a76bf731f:d7b839bf587540f298c60f6e94d954ef
+[I 06:09:51.300 NotebookApp] Kernel shutdown: 2946606b-c586-4200-a17b-3e9df68d7c70
+[I 06:09:53.891 NotebookApp] Kernel shutdown: 9b0b6150-4f39-4041-89a1-250a76bf731f
+[I 06:11:43.148 NotebookApp] Saving file at /lesson6-pets-more.ipynb
+[W 06:11:43.150 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[I 06:13:43.513 NotebookApp] Saving file at /lesson6-pets-more.ipynb
+[W 06:13:43.514 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[I 06:15:43.713 NotebookApp] Saving file at /lesson6-pets-more.ipynb
+[W 06:15:43.714 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[I 06:17:49.693 NotebookApp] Saving file at /lesson6-pets-more.ipynb
+[W 06:17:49.694 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[I 06:19:43.081 NotebookApp] Saving file at /lesson6-pets-more.ipynb
+[W 06:19:43.082 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[I 06:21:44.043 NotebookApp] Saving file at /lesson6-pets-more.ipynb
+[W 06:21:44.044 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[I 06:23:43.596 NotebookApp] Saving file at /lesson6-pets-more.ipynb
+[W 06:23:43.597 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[I 06:25:43.458 NotebookApp] Saving file at /lesson6-pets-more.ipynb
+[W 06:25:43.459 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[I 06:27:44.049 NotebookApp] Saving file at /lesson6-pets-more.ipynb
+[W 06:27:44.050 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[I 07:11:43.105 NotebookApp] Saving file at /lesson6-pets-more.ipynb
+[W 07:11:43.106 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[I 07:25:43.100 NotebookApp] Saving file at /lesson6-pets-more.ipynb
+[W 07:25:43.101 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[I 07:27:43.659 NotebookApp] Saving file at /lesson6-pets-more.ipynb
+[W 07:27:43.660 NotebookApp] Notebook lesson6-pets-more.ipynb is not trusted
+[W 13:48:30.793 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.98ms referer=None
+[I 14:40:06.592 NotebookApp] 302 GET / (172.105.238.87) 0.84ms
+[W 23:51:18.027 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 3.05ms referer=None
+[I 02:11:11.921 NotebookApp] Starting buffering for 2e1c9dcb-db28-4064-9fdc-9c1f8ceb32b1:1b8c0112b85d40c99e1e5054d78eea37
+[I 02:11:13.533 NotebookApp] Kernel shutdown: 2e1c9dcb-db28-4064-9fdc-9c1f8ceb32b1
+[W 02:11:32.132 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[W 02:11:32.943 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[W 02:11:33.097 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 02:11:33.426 NotebookApp] Kernel started: 46d25057-3e3a-4611-ba07-511200dcb092
+[I 02:11:34.823 NotebookApp] Adapting to protocol v5.1 for kernel 46d25057-3e3a-4611-ba07-511200dcb092
+[I 02:11:35.002 NotebookApp] Kernel started: 532dc0cb-6c96-4b86-9d51-150976ffb127
+[I 02:11:35.462 NotebookApp] Kernel started: efc3926e-59c7-44a2-915b-c1b733760f3d
+[I 02:11:36.366 NotebookApp] Adapting to protocol v5.1 for kernel 532dc0cb-6c96-4b86-9d51-150976ffb127
+[I 02:11:36.857 NotebookApp] Adapting to protocol v5.1 for kernel efc3926e-59c7-44a2-915b-c1b733760f3d
+[I 02:13:33.444 NotebookApp] Saving file at /lesson7-resnet-mnist.ipynb
+[W 02:13:33.446 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[I 02:13:36.028 NotebookApp] Saving file at /lesson7-superres.ipynb
+[W 02:13:36.029 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 02:13:36.573 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 02:13:36.574 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 02:15:33.451 NotebookApp] Saving file at /lesson7-resnet-mnist.ipynb
+[W 02:15:33.452 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[I 02:17:33.431 NotebookApp] Saving file at /lesson7-resnet-mnist.ipynb
+[W 02:17:33.433 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[I 02:19:33.435 NotebookApp] Saving file at /lesson7-resnet-mnist.ipynb
+[W 02:19:33.436 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[I 02:21:33.425 NotebookApp] Saving file at /lesson7-resnet-mnist.ipynb
+[W 02:21:33.427 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[I 02:23:33.423 NotebookApp] Saving file at /lesson7-resnet-mnist.ipynb
+[W 02:23:33.424 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[I 02:25:33.424 NotebookApp] Saving file at /lesson7-resnet-mnist.ipynb
+[W 02:25:33.425 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[I 02:27:33.429 NotebookApp] Saving file at /lesson7-resnet-mnist.ipynb
+[W 02:27:33.431 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[I 02:29:33.422 NotebookApp] Saving file at /lesson7-resnet-mnist.ipynb
+[W 02:29:33.424 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[I 02:31:33.433 NotebookApp] Saving file at /lesson7-resnet-mnist.ipynb
+[W 02:31:33.434 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[I 02:33:33.419 NotebookApp] Saving file at /lesson7-resnet-mnist.ipynb
+[W 02:33:33.420 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[I 02:36:37.907 NotebookApp] Saving file at /lesson7-resnet-mnist.ipynb
+[W 02:36:37.908 NotebookApp] Notebook lesson7-resnet-mnist.ipynb is not trusted
+[I 02:36:40.228 NotebookApp] Starting buffering for 46d25057-3e3a-4611-ba07-511200dcb092:23106b3e76574b018c3128cf1323c932
+[I 02:36:41.235 NotebookApp] Kernel shutdown: 46d25057-3e3a-4611-ba07-511200dcb092
+[I 02:39:36.054 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 02:39:36.055 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 02:41:37.610 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 02:41:37.611 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 02:43:37.278 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 02:43:37.279 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 02:45:37.303 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 02:45:37.304 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 02:47:37.033 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 02:47:37.034 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 02:49:37.604 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 02:49:37.605 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 02:55:36.023 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 02:55:36.024 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 02:57:36.690 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 02:57:36.691 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:33:35.988 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:33:35.989 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:35:36.305 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:35:36.306 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:36:04.501 NotebookApp] Kernel interrupted: efc3926e-59c7-44a2-915b-c1b733760f3d
+[I 03:37:37.001 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:37:37.002 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:37:57.704 NotebookApp] Starting buffering for 532dc0cb-6c96-4b86-9d51-150976ffb127:d3adcbfbd9fa45fc85eec1b0d70c1d53
+[I 03:39:37.021 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:39:37.022 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:41:37.252 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:41:37.253 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:43:36.966 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:43:36.967 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:47:36.931 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:47:36.932 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:49:37.058 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:49:37.059 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:51:37.180 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:51:37.181 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:53:38.088 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:53:38.089 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:55:37.257 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:55:37.258 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:57:37.284 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:57:37.285 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 03:59:37.175 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 03:59:37.176 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:01:36.796 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:01:36.797 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:03:37.166 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:03:37.167 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:05:37.183 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:05:37.184 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:07:37.136 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:07:37.137 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:09:37.136 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:09:37.138 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:11:37.111 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:11:37.113 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:13:37.208 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:13:37.210 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:15:37.181 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:15:37.183 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:17:37.731 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:17:37.732 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:19:37.642 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:19:37.643 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:21:37.342 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:21:37.343 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:23:37.480 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:23:37.481 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:25:37.739 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:25:37.740 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:27:37.179 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:27:37.180 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:29:37.567 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:29:37.568 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:31:38.208 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:31:38.209 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:33:38.107 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:33:38.108 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 04:35:40.317 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 04:35:40.318 NotebookApp] Notebook lesson7-superres-gan.ipynb is not trusted
+[I 05:18:04.062 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 05:18:18.755 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 05:18:20.023 NotebookApp] Adapting to protocol v5.1 for kernel 532dc0cb-6c96-4b86-9d51-150976ffb127
+[I 05:19:36.072 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:20:20.271 NotebookApp] Saving file at /lesson7-superres.ipynb
+[W 05:20:20.273 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 05:21:36.079 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:22:20.935 NotebookApp] Saving file at /lesson7-superres.ipynb
+[W 05:22:20.936 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 05:23:36.122 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:24:20.868 NotebookApp] Saving file at /lesson7-superres.ipynb
+[W 05:24:20.870 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 05:25:36.424 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:27:35.709 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:28:21.123 NotebookApp] Saving file at /lesson7-superres.ipynb
+[W 05:28:21.124 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 05:29:36.403 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:30:20.550 NotebookApp] Saving file at /lesson7-superres.ipynb
+[W 05:30:20.551 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 05:31:36.069 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:32:20.523 NotebookApp] Saving file at /lesson7-superres.ipynb
+[W 05:32:20.524 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 05:33:36.114 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:34:20.850 NotebookApp] Saving file at /lesson7-superres.ipynb
+[W 05:34:20.851 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 05:35:36.031 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:36:21.105 NotebookApp] Saving file at /lesson7-superres.ipynb
+[W 05:36:21.107 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 05:37:36.603 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:38:21.425 NotebookApp] Saving file at /lesson7-superres.ipynb
+[W 05:38:21.426 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 05:39:36.204 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:40:22.835 NotebookApp] Saving file at /lesson7-superres.ipynb
+[W 05:40:22.836 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 05:41:36.401 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:43:36.340 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[I 05:45:37.505 NotebookApp] Saving file at /lesson7-superres-gan.ipynb
+[W 06:26:07.211 NotebookApp] 404 GET http://dx.doi.org/ (106.38.55.18) 2.08ms referer=None
+[I 06:47:12.235 NotebookApp] Saving file at /lesson7-superres.ipynb
+[W 06:47:12.236 NotebookApp] Notebook lesson7-superres.ipynb is not trusted
+[I 06:47:13.437 NotebookApp] Starting buffering for 532dc0cb-6c96-4b86-9d51-150976ffb127:9777eb67496d45c783779f65a46f6473
+[I 06:47:16.448 NotebookApp] Kernel shutdown: 532dc0cb-6c96-4b86-9d51-150976ffb127
+[I 06:47:33.947 NotebookApp] Starting buffering for efc3926e-59c7-44a2-915b-c1b733760f3d:1d294ed261664d9e8029355d2b640000
+[I 06:47:35.458 NotebookApp] Kernel shutdown: efc3926e-59c7-44a2-915b-c1b733760f3d
+[I 07:48:19.022 NotebookApp] Copying lesson1-pets.ipynb to 
+[W 07:48:19.085 NotebookApp] Notebook lesson1-pets.ipynb is not trusted
+[W 07:48:19.136 NotebookApp] Notebook lesson1-pets-Copy1.ipynb is not trusted
+[W 07:48:21.310 NotebookApp] Notebook lesson1-pets-Copy1.ipynb is not trusted
+[I 07:48:22.746 NotebookApp] Kernel started: 125bc6aa-47a8-442f-a1b8-b8ec998d9b0a
+[I 07:48:24.308 NotebookApp] Adapting to protocol v5.1 for kernel 125bc6aa-47a8-442f-a1b8-b8ec998d9b0a
+[I 07:48:33.527 NotebookApp] Starting buffering for 125bc6aa-47a8-442f-a1b8-b8ec998d9b0a:40bb091ab9734f7d86eda0f92d230f55
+[I 07:50:59.106 NotebookApp] 302 GET / (198.143.158.82) 0.60ms
+[I 07:50:59.264 NotebookApp] 302 GET /tree? (198.143.158.82) 0.78ms
+[W 09:52:32.913 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.72ms referer=None
+[W 19:52:03.148 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 3.42ms referer=None
+[I 04:57:28.283 NotebookApp] 302 GET / (147.47.208.85) 1.01ms
+[I 04:58:30.984 NotebookApp] Interrupted...
+[I 04:58:30.985 NotebookApp] Shutting down 1 kernel
+[I 04:58:31.286 NotebookApp] Kernel shutdown: 125bc6aa-47a8-442f-a1b8-b8ec998d9b0a

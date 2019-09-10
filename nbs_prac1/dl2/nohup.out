@@ -1,0 +1,619 @@
+[I 07:15:14.170 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 07:15:14.212 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.6/site-packages/jupyterlab
+[I 07:15:14.212 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 07:15:14.214 NotebookApp] Serving notebooks from local directory: /WORKSPACE/course-v3/nbs/dl2
+[I 07:15:14.214 NotebookApp] The Jupyter Notebook is running at:
+[I 07:15:14.214 NotebookApp] http://(7ed51640cd00 or 127.0.0.1):8888/?token=5899d02304ca22c234351e7ba36039e4d8e299f360ed18be
+[I 07:15:14.214 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 07:15:14.219 NotebookApp] No web browser found: could not locate runnable browser.
+[C 07:15:14.219 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///WORKSPACE/.local/share/jupyter/runtime/nbserver-74966-open.html
+    Or copy and paste one of these URLs:
+        http://(7ed51640cd00 or 127.0.0.1):8888/?token=5899d02304ca22c234351e7ba36039e4d8e299f360ed18be
+[W 07:15:15.482 NotebookApp] 404 GET /api/kernels/11d91abd-60fa-466f-951f-41abe5b5da66/channels?session_id=6f6037e7f3ae4cd797b28eb849ee6649 (147.47.208.85): Kernel does not exist: 11d91abd-60fa-466f-951f-41abe5b5da66
+[W 07:15:15.514 NotebookApp] 404 GET /api/kernels/11d91abd-60fa-466f-951f-41abe5b5da66/channels?session_id=6f6037e7f3ae4cd797b28eb849ee6649 (147.47.208.85) 46.12ms referer=None
+[W 07:15:17.471 NotebookApp] 404 GET /api/kernels/5bad6111-3f9c-4343-a982-57eaa33e190f/channels?session_id=1ee97b028e6d42b081779db639bd070e (147.47.208.85): Kernel does not exist: 5bad6111-3f9c-4343-a982-57eaa33e190f
+[W 07:15:17.472 NotebookApp] 404 GET /api/kernels/5bad6111-3f9c-4343-a982-57eaa33e190f/channels?session_id=1ee97b028e6d42b081779db639bd070e (147.47.208.85) 2.83ms referer=None
+[W 07:15:18.874 NotebookApp] 404 GET /api/contents/nbs/dl2?type=directory&_=1564643660866 (147.47.208.85): No such file or directory: nbs/dl2
+[W 07:15:18.874 NotebookApp] No such file or directory: nbs/dl2
+[W 07:15:18.875 NotebookApp] 404 GET /api/contents/nbs/dl2?type=directory&_=1564643660866 (147.47.208.85) 0.97ms referer=http://147.46.112.197:8888/tree/nbs/dl2
+[W 07:15:19.466 NotebookApp] 404 GET /tree/nbs/dl2 (147.47.208.85) 2.06ms referer=None
+[W 07:15:20.738 NotebookApp] 404 GET /tree/nbs/dl2 (147.47.208.85) 2.19ms referer=None
+[W 07:15:21.666 NotebookApp] 404 GET /tree/nbs/dl2 (147.47.208.85) 1.82ms referer=None
+[W 07:15:24.477 NotebookApp] Replacing stale connection: 11d91abd-60fa-466f-951f-41abe5b5da66:6f6037e7f3ae4cd797b28eb849ee6649
+[I 07:15:25.135 NotebookApp] 302 GET / (147.47.208.85) 0.73ms
+[W 07:15:31.371 NotebookApp] Replacing stale connection: 5bad6111-3f9c-4343-a982-57eaa33e190f:1ee97b028e6d42b081779db639bd070e
+[W 07:17:06.534 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 07:17:08.868 NotebookApp] Kernel started: d49e4df7-a784-490c-bef9-b4a0b60909d0
+[I 07:17:10.614 NotebookApp] Adapting to protocol v5.1 for kernel d49e4df7-a784-490c-bef9-b4a0b60909d0
+[I 07:19:09.482 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 07:19:09.485 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 09:17:08.775 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 09:17:08.778 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 09:19:08.754 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 09:19:08.757 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 09:21:08.774 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 09:21:08.777 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 09:23:08.775 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 09:23:08.779 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 09:27:08.756 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 09:27:08.759 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 09:29:08.766 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 09:29:08.769 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 10:33:08.736 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 10:33:08.739 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 10:35:08.744 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 10:35:08.748 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 10:37:08.731 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 10:37:08.735 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 10:39:08.731 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 10:39:08.734 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 10:41:08.741 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 10:41:08.743 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 10:43:08.727 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 10:43:08.730 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 10:45:08.730 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 10:45:08.733 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 10:47:08.720 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 10:47:08.723 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 10:54:33.406 NotebookApp] Saving file at /03_minibatch_training.ipynb
+[W 10:54:33.408 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 10:54:34.275 NotebookApp] Starting buffering for d49e4df7-a784-490c-bef9-b4a0b60909d0:a7069cf428924b62a29e261fd7e9cd1f
+[I 10:54:38.266 NotebookApp] Kernel shutdown: d49e4df7-a784-490c-bef9-b4a0b60909d0
+[W 10:54:42.544 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 10:54:43.302 NotebookApp] Kernel started: 8cc16933-a2f7-4f78-9fdd-4031e2d06255
+[I 10:54:45.092 NotebookApp] Adapting to protocol v5.1 for kernel 8cc16933-a2f7-4f78-9fdd-4031e2d06255
+[I 10:56:43.344 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 10:56:43.345 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 10:58:43.308 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 10:58:43.309 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:00:43.314 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:00:43.315 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[W 11:06:34.685 NotebookApp] Notebook 03_minibatch_training.ipynb is not trusted
+[I 11:06:43.310 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:06:43.311 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:08:43.301 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:08:43.302 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:10:43.436 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:10:43.437 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:12:43.309 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:12:43.310 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:14:43.313 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:14:43.314 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:16:43.312 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:16:43.313 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:18:43.297 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:18:43.298 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:32:43.302 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:32:43.303 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:36:43.306 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:36:43.306 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:38:43.299 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:38:43.300 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:40:43.281 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:40:43.282 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:42:43.294 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:42:43.294 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:44:43.291 NotebookApp] Saving file at /04_callbacks.ipynb
+[W 11:44:43.292 NotebookApp] Notebook 04_callbacks.ipynb is not trusted
+[I 11:45:26.207 NotebookApp] Saving file at /04_callbacks.ipynb
+[I 11:45:27.294 NotebookApp] Starting buffering for 8cc16933-a2f7-4f78-9fdd-4031e2d06255:4aa3a2ae10b247078684c60e599bf0ef
+[W 11:45:39.390 NotebookApp] Notebook 05_anneal.ipynb is not trusted
+[I 11:45:39.922 NotebookApp] Kernel started: 79a2cdd0-014c-42ad-8436-b42774db56f0
+[I 11:45:41.557 NotebookApp] Adapting to protocol v5.1 for kernel 79a2cdd0-014c-42ad-8436-b42774db56f0
+[I 11:47:39.976 NotebookApp] Saving file at /05_anneal.ipynb
+[W 11:47:39.978 NotebookApp] Notebook 05_anneal.ipynb is not trusted
+[I 11:49:39.954 NotebookApp] Saving file at /05_anneal.ipynb
+[W 11:49:39.955 NotebookApp] Notebook 05_anneal.ipynb is not trusted
+[I 11:51:39.946 NotebookApp] Saving file at /05_anneal.ipynb
+[W 11:51:39.946 NotebookApp] Notebook 05_anneal.ipynb is not trusted
+[I 11:55:39.950 NotebookApp] Saving file at /05_anneal.ipynb
+[W 11:55:39.950 NotebookApp] Notebook 05_anneal.ipynb is not trusted
+[I 12:07:39.949 NotebookApp] Saving file at /05_anneal.ipynb
+[W 12:07:39.950 NotebookApp] Notebook 05_anneal.ipynb is not trusted
+[I 12:09:40.053 NotebookApp] Saving file at /05_anneal.ipynb
+[W 12:09:40.054 NotebookApp] Notebook 05_anneal.ipynb is not trusted
+[I 12:11:39.940 NotebookApp] Saving file at /05_anneal.ipynb
+[W 12:11:39.941 NotebookApp] Notebook 05_anneal.ipynb is not trusted
+[I 12:13:39.951 NotebookApp] Saving file at /05_anneal.ipynb
+[W 12:13:39.951 NotebookApp] Notebook 05_anneal.ipynb is not trusted
+[I 12:15:39.954 NotebookApp] Saving file at /05_anneal.ipynb
+[W 12:15:39.954 NotebookApp] Notebook 05_anneal.ipynb is not trusted
+[I 12:17:39.946 NotebookApp] Saving file at /05_anneal.ipynb
+[W 12:17:39.947 NotebookApp] Notebook 05_anneal.ipynb is not trusted
+[I 12:18:58.073 NotebookApp] Adapting to protocol v5.1 for kernel 8cc16933-a2f7-4f78-9fdd-4031e2d06255
+[I 12:19:40.315 NotebookApp] Saving file at /05_anneal.ipynb
+[W 12:19:40.316 NotebookApp] Notebook 05_anneal.ipynb is not trusted
+[I 12:19:53.667 NotebookApp] Starting buffering for 8cc16933-a2f7-4f78-9fdd-4031e2d06255:b47dc196fded45ce866a9ad67a55369e
+[I 12:20:03.105 NotebookApp] Kernel shutdown: 8cc16933-a2f7-4f78-9fdd-4031e2d06255
+[W 12:20:03.108 NotebookApp] 404 DELETE /api/sessions/1657904a-ec93-4821-adad-0943352dd75f (147.47.208.85): Session not found: session_id='1657904a-ec93-4821-adad-0943352dd75f'
+[W 12:20:03.108 NotebookApp] Session not found: session_id='1657904a-ec93-4821-adad-0943352dd75f'
+[W 12:20:03.108 NotebookApp] 404 DELETE /api/sessions/1657904a-ec93-4821-adad-0943352dd75f (147.47.208.85) 1.68ms referer=http://147.46.112.197:8888/tree
+[W 12:20:03.108 NotebookApp] 404 DELETE /api/sessions/1657904a-ec93-4821-adad-0943352dd75f (147.47.208.85): Session not found: session_id='1657904a-ec93-4821-adad-0943352dd75f'
+[W 12:20:03.109 NotebookApp] Session not found: session_id='1657904a-ec93-4821-adad-0943352dd75f'
+[W 12:20:03.109 NotebookApp] 404 DELETE /api/sessions/1657904a-ec93-4821-adad-0943352dd75f (147.47.208.85) 1.84ms referer=http://147.46.112.197:8888/tree
+[I 12:20:04.172 NotebookApp] Kernel shutdown: 79a2cdd0-014c-42ad-8436-b42774db56f0
+[W 15:52:50.371 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 3.08ms referer=None
+[I 00:05:21.325 NotebookApp] 302 GET / (172.105.238.87) 1.14ms
+[W 01:54:52.549 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.34ms referer=None
+[W 11:54:04.059 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.68ms referer=None
+[I 13:23:37.828 NotebookApp] 302 GET / (122.228.19.79) 0.61ms
+[I 13:23:38.057 NotebookApp] 302 GET /tree? (122.228.19.79) 0.85ms
+[W 21:54:59.005 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.62ms referer=None
+[W 03:16:55.267 NotebookApp] 404 GET http://172.247.32.25/ddd.html (91.195.99.114) 1.54ms referer=None
+[W 07:56:23.278 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.48ms referer=None
+[I 11:55:07.331 NotebookApp] 302 GET / (92.118.161.5) 0.65ms
+[I 17:45:54.034 NotebookApp] 302 GET / (172.105.238.87) 0.60ms
+[W 18:00:06.325 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.75ms referer=None
+[W 04:03:52.935 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.78ms referer=None
+[W 14:07:19.324 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.84ms referer=None
+[W 00:09:50.945 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.02ms referer=None
+[W 04:29:53.972 NotebookApp] 404 GET http://www.sciencedirect.com/ (58.212.135.118) 1.79ms referer=None
+[W 10:11:57.029 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.83ms referer=None
+[W 20:11:07.931 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.60ms referer=None
+[W 06:13:01.077 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 5.84ms referer=None
+[I 10:25:02.817 NotebookApp] 302 GET / (147.47.208.85) 3.24ms
+[W 10:25:19.651 NotebookApp] Notebook 05a_foundations.ipynb is not trusted
+[I 10:25:21.383 NotebookApp] Kernel started: 45d46d6b-d5fc-4d3f-b99d-211f0b57203a
+[I 10:25:23.701 NotebookApp] Adapting to protocol v5.1 for kernel 45d46d6b-d5fc-4d3f-b99d-211f0b57203a
+[I 10:27:21.411 NotebookApp] Saving file at /05a_foundations.ipynb
+[W 10:27:21.416 NotebookApp] Notebook 05a_foundations.ipynb is not trusted
+[I 10:29:21.420 NotebookApp] Saving file at /05a_foundations.ipynb
+[W 10:29:21.422 NotebookApp] Notebook 05a_foundations.ipynb is not trusted
+[I 10:31:21.408 NotebookApp] Saving file at /05a_foundations.ipynb
+[W 10:31:21.466 NotebookApp] Notebook 05a_foundations.ipynb is not trusted
+[I 10:45:21.443 NotebookApp] Saving file at /05a_foundations.ipynb
+[W 10:45:21.449 NotebookApp] Notebook 05a_foundations.ipynb is not trusted
+[I 10:47:21.397 NotebookApp] Saving file at /05a_foundations.ipynb
+[W 10:47:21.399 NotebookApp] Notebook 05a_foundations.ipynb is not trusted
+[I 10:49:21.399 NotebookApp] Saving file at /05a_foundations.ipynb
+[W 10:49:21.401 NotebookApp] Notebook 05a_foundations.ipynb is not trusted
+[I 10:51:21.397 NotebookApp] Saving file at /05a_foundations.ipynb
+[W 10:51:21.399 NotebookApp] Notebook 05a_foundations.ipynb is not trusted
+[I 10:53:21.411 NotebookApp] Saving file at /05a_foundations.ipynb
+[W 10:53:21.413 NotebookApp] Notebook 05a_foundations.ipynb is not trusted
+[I 11:03:21.440 NotebookApp] Saving file at /05a_foundations.ipynb
+[W 11:03:21.442 NotebookApp] Notebook 05a_foundations.ipynb is not trusted
+[I 11:05:21.380 NotebookApp] Saving file at /05a_foundations.ipynb
+[W 11:05:21.383 NotebookApp] Notebook 05a_foundations.ipynb is not trusted
+[I 11:06:19.387 NotebookApp] Saving file at /05a_foundations.ipynb
+[W 11:06:19.389 NotebookApp] Notebook 05a_foundations.ipynb is not trusted
+[I 11:06:20.365 NotebookApp] Starting buffering for 45d46d6b-d5fc-4d3f-b99d-211f0b57203a:ed8dc7860b8b49ea86da909fd4badf74
+[W 11:06:23.021 NotebookApp] Notebook 05b_early_stopping.ipynb is not trusted
+[I 11:06:23.684 NotebookApp] Kernel started: c38f2ad4-ecb3-43e7-b998-b7552b7ccc3a
+[I 11:06:25.980 NotebookApp] Adapting to protocol v5.1 for kernel c38f2ad4-ecb3-43e7-b998-b7552b7ccc3a
+[I 11:08:23.720 NotebookApp] Saving file at /05b_early_stopping.ipynb
+[W 11:08:23.723 NotebookApp] Notebook 05b_early_stopping.ipynb is not trusted
+[I 11:10:23.692 NotebookApp] Saving file at /05b_early_stopping.ipynb
+[W 11:10:23.693 NotebookApp] Notebook 05b_early_stopping.ipynb is not trusted
+[I 11:12:23.685 NotebookApp] Saving file at /05b_early_stopping.ipynb
+[W 11:12:23.686 NotebookApp] Notebook 05b_early_stopping.ipynb is not trusted
+[I 11:16:23.673 NotebookApp] Saving file at /05b_early_stopping.ipynb
+[W 11:16:23.673 NotebookApp] Notebook 05b_early_stopping.ipynb is not trusted
+[I 11:18:23.685 NotebookApp] Saving file at /05b_early_stopping.ipynb
+[W 11:18:23.686 NotebookApp] Notebook 05b_early_stopping.ipynb is not trusted
+[I 11:19:31.513 NotebookApp] Saving file at /05b_early_stopping.ipynb
+[I 11:19:32.191 NotebookApp] Starting buffering for c38f2ad4-ecb3-43e7-b998-b7552b7ccc3a:12e6640b9c274bc0b2a1f602b8265a7d
+[W 11:19:37.667 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:19:39.914 NotebookApp] Kernel started: 7a9abc0b-ffe9-41c3-b131-f108f0bede18
+[I 11:19:42.072 NotebookApp] Adapting to protocol v5.1 for kernel 7a9abc0b-ffe9-41c3-b131-f108f0bede18
+[I 11:21:31.147 NotebookApp] Adapting to protocol v5.1 for kernel c38f2ad4-ecb3-43e7-b998-b7552b7ccc3a
+[I 11:21:40.769 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:21:40.772 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:23:40.454 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:23:40.457 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:25:40.290 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:25:40.293 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:27:40.958 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:27:40.962 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:31:40.837 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:31:40.840 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:33:40.477 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:33:40.480 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:35:40.035 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:35:40.039 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:37:40.505 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:37:40.508 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:39:40.460 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:39:40.463 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:40:09.919 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:40:09.922 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:41:40.467 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:41:40.470 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:43:40.074 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:43:40.077 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:45:40.468 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:45:40.471 NotebookApp] Notebook 06_cuda_cnn_hooks_init.ipynb is not trusted
+[I 11:47:03.048 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[I 11:47:41.216 NotebookApp] Saving file at /06_cuda_cnn_hooks_init.ipynb
+[W 11:47:44.803 NotebookApp] Notebook 07_batchnorm.ipynb is not trusted
+[I 11:47:46.131 NotebookApp] Kernel started: b776aba8-42e0-4033-b7df-93eb9a0ae9d1
+[I 11:47:46.181 NotebookApp] 302 GET /notebooks/images/norms.png (147.47.208.85) 1.83ms
+[I 11:47:48.468 NotebookApp] Adapting to protocol v5.1 for kernel b776aba8-42e0-4033-b7df-93eb9a0ae9d1
+[I 11:48:24.058 NotebookApp] Starting buffering for c38f2ad4-ecb3-43e7-b998-b7552b7ccc3a:a3842e88a414414eb009d7f3d35c93c9
+[I 11:48:24.448 NotebookApp] Starting buffering for 7a9abc0b-ffe9-41c3-b131-f108f0bede18:bb32bbd71d55428185a5d4b847c9759c
+[I 11:49:46.593 NotebookApp] Saving file at /07_batchnorm.ipynb
+[W 11:49:46.597 NotebookApp] Notebook 07_batchnorm.ipynb is not trusted
+[I 12:49:18.705 NotebookApp] Starting buffering for b776aba8-42e0-4033-b7df-93eb9a0ae9d1:6348e43518c047ed80cf1dcad009ac10
+[I 14:47:41.887 NotebookApp] 302 GET / (185.173.35.57) 4.63ms
+[W 15:51:30.758 NotebookApp] 403 POST /cgi-bin/sh (89.248.174.144): '_xsrf' argument missing from POST
+[W 15:51:30.773 NotebookApp] 403 POST /cgi-bin/sh (89.248.174.144) 18.03ms referer=None
+[W 15:54:26.107 NotebookApp] 403 POST /cgi-bin/sh (89.248.174.144): '_xsrf' argument missing from POST
+[W 15:54:26.109 NotebookApp] 403 POST /cgi-bin/sh (89.248.174.144) 3.18ms referer=None
+[W 15:58:43.482 NotebookApp] 403 POST /sess-bin/sh (89.248.174.144): '_xsrf' argument missing from POST
+[W 15:58:43.484 NotebookApp] 403 POST /sess-bin/sh (89.248.174.144) 2.40ms referer=None
+[W 16:15:49.797 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.06ms referer=None
+[W 02:17:14.168 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 4.11ms referer=None
+[I 04:15:01.416 NotebookApp] 302 GET / (211.44.252.32) 1.21ms
+[W 04:15:41.196 NotebookApp] Notebook 07_batchnorm.ipynb is not trusted
+[I 04:15:42.714 NotebookApp] 302 GET /notebooks/images/norms.png (211.44.252.32) 1.29ms
+[I 04:15:42.782 NotebookApp] Adapting to protocol v5.1 for kernel b776aba8-42e0-4033-b7df-93eb9a0ae9d1
+[I 04:16:01.846 NotebookApp] Saving file at /07_batchnorm.ipynb
+[W 04:16:01.848 NotebookApp] Notebook 07_batchnorm.ipynb is not trusted
+[I 04:16:01.963 NotebookApp] Starting buffering for b776aba8-42e0-4033-b7df-93eb9a0ae9d1:67a8359040374cd6bebf5385c8a96c60
+[I 04:16:06.009 NotebookApp] Kernel shutdown: 45d46d6b-d5fc-4d3f-b99d-211f0b57203a
+[W 04:16:06.012 NotebookApp] 404 DELETE /api/sessions/52dcc7b3-a331-4ea6-8c65-776327a4b5ba (211.44.252.32): Session not found: session_id='52dcc7b3-a331-4ea6-8c65-776327a4b5ba'
+[W 04:16:06.012 NotebookApp] Session not found: session_id='52dcc7b3-a331-4ea6-8c65-776327a4b5ba'
+[W 04:16:06.012 NotebookApp] 404 DELETE /api/sessions/52dcc7b3-a331-4ea6-8c65-776327a4b5ba (211.44.252.32) 1.58ms referer=http://147.46.112.197:8888/tree?
+[I 04:16:07.133 NotebookApp] Kernel shutdown: c38f2ad4-ecb3-43e7-b998-b7552b7ccc3a
+[I 04:16:08.699 NotebookApp] Kernel shutdown: 7a9abc0b-ffe9-41c3-b131-f108f0bede18
+[I 07:14:36.099 NotebookApp] 302 GET / (172.105.238.87) 0.90ms
+[W 12:18:45.431 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.97ms referer=None
+[W 22:20:34.802 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.54ms referer=None
+[I 04:20:45.989 NotebookApp] 302 GET / (147.47.208.85) 0.88ms
+[W 04:20:53.231 NotebookApp] Notebook 07a_lsuv.ipynb is not trusted
+[I 04:20:53.788 NotebookApp] Kernel started: 366ea8e2-3d0f-4bcc-94bb-d9cea664e339
+[I 04:20:56.713 NotebookApp] Adapting to protocol v5.1 for kernel 366ea8e2-3d0f-4bcc-94bb-d9cea664e339
+[I 04:22:53.776 NotebookApp] Saving file at /07a_lsuv.ipynb
+[W 04:22:53.777 NotebookApp] Notebook 07a_lsuv.ipynb is not trusted
+[I 04:26:53.779 NotebookApp] Saving file at /07a_lsuv.ipynb
+[W 04:26:53.780 NotebookApp] Notebook 07a_lsuv.ipynb is not trusted
+[I 04:28:53.764 NotebookApp] Saving file at /07a_lsuv.ipynb
+[W 04:28:53.765 NotebookApp] Notebook 07a_lsuv.ipynb is not trusted
+[I 04:30:53.765 NotebookApp] Saving file at /07a_lsuv.ipynb
+[W 04:30:53.768 NotebookApp] Notebook 07a_lsuv.ipynb is not trusted
+[I 04:32:53.769 NotebookApp] Saving file at /07a_lsuv.ipynb
+[W 04:32:53.770 NotebookApp] Notebook 07a_lsuv.ipynb is not trusted
+[I 04:34:53.765 NotebookApp] Saving file at /07a_lsuv.ipynb
+[W 04:34:53.767 NotebookApp] Notebook 07a_lsuv.ipynb is not trusted
+[I 04:36:53.767 NotebookApp] Saving file at /07a_lsuv.ipynb
+[I 04:45:09.823 NotebookApp] Starting buffering for 366ea8e2-3d0f-4bcc-94bb-d9cea664e339:9f1bd3cf376743b98188e831f6b85b8b
+[I 04:45:13.770 NotebookApp] Adapting to protocol v5.1 for kernel 366ea8e2-3d0f-4bcc-94bb-d9cea664e339
+[W 08:22:25.813 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.88ms referer=None
+[I 13:23:30.357 NotebookApp] 302 GET / (172.105.238.87) 1.43ms
+[I 15:29:09.106 NotebookApp] 302 GET / (211.44.252.32) 0.66ms
+[I 15:29:14.523 NotebookApp] Adapting to protocol v5.1 for kernel 366ea8e2-3d0f-4bcc-94bb-d9cea664e339
+[I 15:34:47.358 NotebookApp] Saving file at /07a_lsuv.ipynb
+[I 15:35:14.452 NotebookApp] Saving file at /07a_lsuv.ipynb
+[W 15:39:59.206 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 15:40:01.320 NotebookApp] Kernel started: 7476e8bd-2142-49cb-9182-f499433d42d0
+[I 15:40:04.287 NotebookApp] Adapting to protocol v5.1 for kernel 7476e8bd-2142-49cb-9182-f499433d42d0
+[I 15:42:01.480 NotebookApp] Saving file at /08_data_block.ipynb
+[W 15:42:01.484 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 15:48:01.508 NotebookApp] Saving file at /08_data_block.ipynb
+[W 15:48:01.604 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 15:48:19.969 NotebookApp] Kernel interrupted: 7476e8bd-2142-49cb-9182-f499433d42d0
+[I 15:50:01.562 NotebookApp] Saving file at /08_data_block.ipynb
+[W 15:50:01.566 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 15:52:01.440 NotebookApp] Saving file at /08_data_block.ipynb
+[W 15:52:01.445 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 15:54:01.447 NotebookApp] Saving file at /08_data_block.ipynb
+[W 15:54:01.451 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 15:56:01.420 NotebookApp] Saving file at /08_data_block.ipynb
+[W 15:56:01.423 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 15:58:01.422 NotebookApp] Saving file at /08_data_block.ipynb
+[W 15:58:01.426 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 16:00:01.419 NotebookApp] Saving file at /08_data_block.ipynb
+[W 16:00:01.423 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 16:00:17.697 NotebookApp] Kernel interrupted: 7476e8bd-2142-49cb-9182-f499433d42d0
+[I 16:00:17.871 NotebookApp] Kernel interrupted: 7476e8bd-2142-49cb-9182-f499433d42d0
+[I 16:00:18.027 NotebookApp] Kernel interrupted: 7476e8bd-2142-49cb-9182-f499433d42d0
+[I 16:00:18.187 NotebookApp] Kernel interrupted: 7476e8bd-2142-49cb-9182-f499433d42d0
+[I 16:00:18.338 NotebookApp] Kernel interrupted: 7476e8bd-2142-49cb-9182-f499433d42d0
+[I 16:00:18.512 NotebookApp] Kernel interrupted: 7476e8bd-2142-49cb-9182-f499433d42d0
+[I 16:00:18.683 NotebookApp] Kernel interrupted: 7476e8bd-2142-49cb-9182-f499433d42d0
+[I 16:02:01.540 NotebookApp] Saving file at /08_data_block.ipynb
+[W 16:02:01.543 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 16:04:01.526 NotebookApp] Saving file at /08_data_block.ipynb
+[W 16:04:01.528 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 16:04:35.930 NotebookApp] Saving file at /08_data_block.ipynb
+[W 16:04:35.935 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 16:10:01.550 NotebookApp] Saving file at /08_data_block.ipynb
+[W 16:10:01.553 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 16:12:01.408 NotebookApp] Saving file at /08_data_block.ipynb
+[W 16:12:01.411 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 16:14:01.400 NotebookApp] Saving file at /08_data_block.ipynb
+[W 16:14:01.403 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 16:16:01.401 NotebookApp] Saving file at /08_data_block.ipynb
+[W 16:16:01.404 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 16:19:28.810 NotebookApp] Saving file at /08_data_block.ipynb
+[W 16:19:28.813 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 16:19:30.305 NotebookApp] Saving file at /08_data_block.ipynb
+[W 16:19:30.308 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 16:19:37.501 NotebookApp] Starting buffering for 7476e8bd-2142-49cb-9182-f499433d42d0:8ba10bb226de4b0398f557ab4d3c88cd
+[W 18:22:29.854 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 8.60ms referer=None
+[I 03:49:13.930 NotebookApp] Starting buffering for 366ea8e2-3d0f-4bcc-94bb-d9cea664e339:76d9fd170b1d45449a55e23bc05ba258
+[W 04:23:13.100 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.54ms referer=None
+[W 07:24:05.019 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 07:24:07.734 NotebookApp] Adapting to protocol v5.1 for kernel 7476e8bd-2142-49cb-9182-f499433d42d0
+[I 07:28:27.807 NotebookApp] Saving file at /08_data_block.ipynb
+[W 07:28:27.814 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 07:30:07.744 NotebookApp] Saving file at /08_data_block.ipynb
+[W 07:30:07.747 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 07:32:07.417 NotebookApp] Saving file at /08_data_block.ipynb
+[W 07:32:07.420 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 07:34:07.745 NotebookApp] Saving file at /08_data_block.ipynb
+[W 07:34:07.748 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 07:40:07.404 NotebookApp] Saving file at /08_data_block.ipynb
+[W 07:40:07.407 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 07:42:07.414 NotebookApp] Saving file at /08_data_block.ipynb
+[W 07:42:07.418 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 07:44:07.416 NotebookApp] Saving file at /08_data_block.ipynb
+[W 07:44:07.419 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 07:46:07.727 NotebookApp] Saving file at /08_data_block.ipynb
+[W 07:46:07.731 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 07:48:07.409 NotebookApp] Saving file at /08_data_block.ipynb
+[W 07:48:07.413 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 07:50:07.716 NotebookApp] Saving file at /08_data_block.ipynb
+[W 07:50:07.721 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 07:56:07.394 NotebookApp] Saving file at /08_data_block.ipynb
+[W 07:56:07.397 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 07:58:07.909 NotebookApp] Saving file at /08_data_block.ipynb
+[W 07:58:07.911 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:00:07.693 NotebookApp] Saving file at /08_data_block.ipynb
+[W 08:00:07.696 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:02:07.394 NotebookApp] Saving file at /08_data_block.ipynb
+[W 08:02:07.398 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:04:07.724 NotebookApp] Saving file at /08_data_block.ipynb
+[W 08:04:07.728 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:06:07.894 NotebookApp] Saving file at /08_data_block.ipynb
+[W 08:06:07.897 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:12:07.381 NotebookApp] Saving file at /08_data_block.ipynb
+[W 08:12:07.385 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:14:07.688 NotebookApp] Saving file at /08_data_block.ipynb
+[W 08:14:07.691 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:16:07.386 NotebookApp] Saving file at /08_data_block.ipynb
+[W 08:16:07.389 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:18:07.663 NotebookApp] Saving file at /08_data_block.ipynb
+[W 08:18:07.666 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:20:07.366 NotebookApp] Saving file at /08_data_block.ipynb
+[W 08:20:07.369 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:21:14.543 NotebookApp] Saving file at /08_data_block.ipynb
+[W 08:21:14.546 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:24:07.378 NotebookApp] Saving file at /08_data_block.ipynb
+[W 08:24:07.382 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:24:48.517 NotebookApp] Saving file at /08_data_block.ipynb
+[W 08:24:48.521 NotebookApp] Notebook 08_data_block.ipynb is not trusted
+[I 08:24:49.193 NotebookApp] Starting buffering for 7476e8bd-2142-49cb-9182-f499433d42d0:22735a72e93f441a92374656170bc071
+[W 08:24:54.111 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 08:24:55.992 NotebookApp] Kernel started: 63130b68-58cf-490a-b780-daebba408855
+[I 08:24:56.066 NotebookApp] 302 GET /notebooks/images/overfit.png (147.47.208.85) 2.76ms
+[I 08:24:58.771 NotebookApp] Adapting to protocol v5.1 for kernel 63130b68-58cf-490a-b780-daebba408855
+[I 08:25:05.576 NotebookApp] Kernel shutdown: b776aba8-42e0-4033-b7df-93eb9a0ae9d1
+[I 08:25:07.398 NotebookApp] Kernel shutdown: 366ea8e2-3d0f-4bcc-94bb-d9cea664e339
+[I 08:25:09.033 NotebookApp] Kernel shutdown: 7476e8bd-2142-49cb-9182-f499433d42d0
+[I 08:26:56.057 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 08:26:56.060 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 09:44:55.994 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 09:44:55.997 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 09:46:55.990 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 09:46:55.994 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 09:48:56.314 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 09:48:56.316 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 09:50:56.287 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 09:50:56.289 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 09:52:55.994 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 09:52:55.996 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 10:10:56.809 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 10:10:56.812 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 10:12:56.382 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 10:12:56.384 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 10:14:55.969 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 10:14:55.971 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 10:16:56.271 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 10:16:56.274 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 10:18:55.959 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 10:18:55.961 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 10:32:55.949 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 10:32:55.951 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 10:36:55.945 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 10:36:55.947 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 10:38:56.267 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 10:38:56.270 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 10:58:56.790 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 10:58:56.793 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 10:59:00.442 NotebookApp] Saving file at /09_optimizers.ipynb
+[W 10:59:00.444 NotebookApp] Notebook 09_optimizers.ipynb is not trusted
+[I 10:59:01.253 NotebookApp] Starting buffering for 63130b68-58cf-490a-b780-daebba408855:80d8db4861ce4784a6c65c491371ba95
+[I 10:59:06.283 NotebookApp] Kernel shutdown: 63130b68-58cf-490a-b780-daebba408855
+[W 10:59:16.119 NotebookApp] Notebook 09b_learner.ipynb is not trusted
+[I 10:59:16.846 NotebookApp] Kernel started: 1520fe8b-c539-4727-b346-060383f52f2a
+[I 10:59:19.434 NotebookApp] Adapting to protocol v5.1 for kernel 1520fe8b-c539-4727-b346-060383f52f2a
+[I 11:01:16.853 NotebookApp] Saving file at /09b_learner.ipynb
+[W 11:01:16.854 NotebookApp] Notebook 09b_learner.ipynb is not trusted
+[I 11:05:14.919 NotebookApp] Saving file at /09b_learner.ipynb
+[W 11:05:14.920 NotebookApp] Notebook 09b_learner.ipynb is not trusted
+[I 11:05:14.999 NotebookApp] Starting buffering for 1520fe8b-c539-4727-b346-060383f52f2a:07ccbb33e8494a1388f08ce467c33b8c
+[W 11:05:22.190 NotebookApp] Notebook 09c_add_progress_bar.ipynb is not trusted
+[I 11:05:22.819 NotebookApp] Kernel started: 87f06222-2f7f-4f9d-8e8f-086eff0551b5
+[I 11:05:25.299 NotebookApp] Adapting to protocol v5.1 for kernel 87f06222-2f7f-4f9d-8e8f-086eff0551b5
+[I 11:07:23.737 NotebookApp] Saving file at /09c_add_progress_bar.ipynb
+[I 11:11:22.834 NotebookApp] Saving file at /09c_add_progress_bar.ipynb
+[I 11:11:52.731 NotebookApp] Saving file at /09c_add_progress_bar.ipynb
+[I 11:11:52.791 NotebookApp] Starting buffering for 87f06222-2f7f-4f9d-8e8f-086eff0551b5:e054ccbb1ad045a2baf337646bcc769e
+[W 14:25:12.501 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.42ms referer=None
+[W 00:24:14.324 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 4.05ms referer=None
+[I 08:02:59.740 NotebookApp] 302 GET / (198.27.82.210) 1.13ms
+[W 08:57:04.555 NotebookApp] 404 GET /v1/wallet/list_keys (193.29.15.60) 9.61ms referer=None
+[W 10:25:53.368 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 5.54ms referer=None
+[I 11:02:51.712 NotebookApp] 302 GET / (196.52.43.101) 1.73ms
+[I 14:58:21.028 NotebookApp] 302 GET / (198.27.82.210) 1.59ms
+[W 20:29:56.896 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.95ms referer=None
+[I 03:40:47.985 NotebookApp] Kernel shutdown: 1520fe8b-c539-4727-b346-060383f52f2a
+[I 03:40:49.009 NotebookApp] Kernel shutdown: 87f06222-2f7f-4f9d-8e8f-086eff0551b5
+[W 06:30:28.163 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.12ms referer=None
+[I 08:30:59.272 NotebookApp] 302 GET / (52.38.105.107) 0.83ms
+[W 11:51:34.217 NotebookApp] 404 GET /manager/html (119.96.168.95) 3.08ms referer=None
+[W 11:51:35.464 NotebookApp] 404 HEAD http://123.125.114.144/ (106.47.43.65) 15.47ms referer=None
+[W 16:30:45.857 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 6.07ms referer=None
+[W 02:33:13.338 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.62ms referer=None
+[I 03:59:40.877 NotebookApp] 302 GET / (172.105.238.87) 0.69ms
+[I 05:46:23.906 NotebookApp] 302 GET / (172.247.109.84) 0.63ms
+[I 05:46:24.197 NotebookApp] 302 GET /tree? (172.247.109.84) 0.77ms
+[I 05:46:25.905 NotebookApp] 302 GET / (172.247.109.84) 0.69ms
+[I 05:46:26.300 NotebookApp] 302 GET /tree? (172.247.109.84) 0.87ms
+[W 12:34:09.684 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.57ms referer=None
+[W 22:36:48.191 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.53ms referer=None
+[W 00:09:31.880 NotebookApp] 404 GET http://www.google.com/ (212.64.28.102) 1.57ms referer=None
+[W 08:40:23.835 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.71ms referer=None
+[I 14:44:17.584 NotebookApp] 302 GET / (139.162.83.10) 0.61ms
+[W 18:43:45.734 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.98ms referer=None
+[I 21:26:19.243 NotebookApp] 302 GET / (172.105.238.87) 0.65ms
+[W 04:45:24.259 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.47ms referer=None
+[I 14:36:50.975 NotebookApp] 302 GET / (92.118.161.5) 0.64ms
+[W 14:48:03.987 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.73ms referer=None
+[W 00:48:55.741 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.62ms referer=None
+[I 01:33:26.074 NotebookApp] 302 GET / (122.228.19.79) 0.67ms
+[I 01:33:26.267 NotebookApp] 302 GET /tree? (122.228.19.79) 0.72ms
+[W 10:50:21.981 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.84ms referer=None
+[W 15:42:44.110 NotebookApp] 404 GET /v1/wallet/list_keys (193.29.15.60) 1.77ms referer=None
+[W 20:53:48.894 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.53ms referer=None
+[I 23:23:59.467 NotebookApp] 302 GET / (185.142.236.35) 0.70ms
+[I 23:24:00.864 NotebookApp] 302 GET /tree (185.142.236.35) 0.93ms
+[W 06:57:54.281 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.02ms referer=None
+[W 16:57:36.802 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.68ms referer=None
+[I 17:10:16.011 NotebookApp] 302 GET / (139.162.83.10) 0.62ms
+[W 17:15:42.966 NotebookApp] 404 GET http://dx.doi.org/ (212.64.28.102) 1.96ms referer=None
+[I 21:54:57.434 NotebookApp] 302 GET / (172.105.238.87) 1.00ms
+[I 22:11:11.238 NotebookApp] 302 GET /terminals/1 (178.32.46.58) 0.67ms
+[W 02:58:57.209 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.67ms referer=None
+[W 05:35:28.522 NotebookApp] 404 GET http://www.mylanviewer.com/index.html (142.252.251.228) 1.50ms referer=None
+[I 10:05:35.624 NotebookApp] 302 GET / (196.52.43.122) 1.02ms
+[W 13:04:46.137 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.53ms referer=None
+[W 23:12:07.458 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.98ms referer=None
+[W 05:59:27.142 NotebookApp] 404 GET /index.asp (124.94.17.86) 2.13ms referer=None
+[W 09:16:06.489 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.72ms referer=None
+[W 19:15:04.724 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.04ms referer=None
+[I 23:38:11.433 NotebookApp] 302 GET / (139.162.83.10) 0.67ms
+[I 01:03:56.703 NotebookApp] 302 GET / (172.105.238.87) 0.84ms
+[W 05:17:48.907 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.96ms referer=None
+[W 15:19:53.161 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.07ms referer=None
+[W 01:20:14.273 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.06ms referer=None
+[I 02:25:40.082 NotebookApp] 302 GET / (23.225.205.54) 0.60ms
+[I 02:25:40.366 NotebookApp] 302 GET /tree? (23.225.205.54) 0.69ms
+[I 02:25:42.026 NotebookApp] 302 GET / (23.225.205.54) 0.70ms
+[I 02:25:42.302 NotebookApp] 302 GET /tree? (23.225.205.54) 0.53ms
+[I 08:00:31.941 NotebookApp] 302 GET / (69.175.97.170) 0.57ms
+[I 08:00:32.130 NotebookApp] 302 GET /tree? (69.175.97.170) 0.71ms
+[W 11:21:35.543 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.64ms referer=None
+[I 19:55:30.782 NotebookApp] 302 GET / (92.118.161.13) 0.79ms
+[W 21:23:19.901 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.79ms referer=None
+[I 22:16:02.744 NotebookApp] 302 GET / (172.105.238.87) 0.91ms
+[I 05:19:10.159 NotebookApp] 302 GET / (172.247.55.190) 0.72ms
+[I 05:19:10.468 NotebookApp] 302 GET /tree? (172.247.55.190) 0.97ms
+[I 05:19:12.522 NotebookApp] 302 GET / (172.247.55.190) 0.71ms
+[I 05:19:12.843 NotebookApp] 302 GET /tree? (172.247.55.190) 1.33ms
+[W 07:26:57.186 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.46ms referer=None
+[W 17:31:11.472 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.96ms referer=None
+[I 23:49:27.612 NotebookApp] 302 GET /terminals/1 (178.32.46.58) 0.85ms
+[W 03:36:05.244 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.50ms referer=None
+[W 05:01:50.593 NotebookApp] 404 GET http://www.mylanviewer.com/index.html (142.252.251.228) 1.55ms referer=None
+[I 06:18:58.445 NotebookApp] 302 GET / (45.79.153.231) 0.64ms
+[I 10:18:34.223 NotebookApp] 302 GET / (23.224.190.91) 0.87ms
+[I 10:18:34.535 NotebookApp] 302 GET /tree? (23.224.190.91) 0.55ms
+[I 10:18:37.197 NotebookApp] 302 GET / (23.224.190.91) 0.46ms
+[I 10:18:38.547 NotebookApp] 302 GET /tree? (23.224.190.91) 0.99ms
+[W 13:42:38.271 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.02ms referer=None
+[I 16:47:39.218 NotebookApp] 302 GET / (106.75.84.197) 0.91ms
+[I 16:47:39.403 NotebookApp] 302 GET / (120.52.152.20) 0.45ms
+[I 16:47:39.761 NotebookApp] 302 GET /tree? (120.52.152.20) 0.86ms
+[I 23:25:49.633 NotebookApp] 302 GET / (92.118.160.33) 0.75ms
+[W 23:46:26.736 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.58ms referer=None
+[W 09:49:47.479 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.04ms referer=None
+[I 10:29:42.759 NotebookApp] 302 GET / (139.162.83.10) 0.90ms
+[I 19:04:21.640 NotebookApp] 302 GET / (13.52.80.159) 0.95ms
+[W 19:51:24.676 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.99ms referer=None
+[W 05:53:07.928 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.63ms referer=None
+[W 15:53:56.974 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.07ms referer=None
+[W 01:51:23.867 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.56ms referer=None
+[W 08:44:52.586 NotebookApp] 404 GET http://dx.doi.org/ (223.73.44.62) 1.95ms referer=None
+[W 09:05:44.536 NotebookApp] 404 GET http://dx.doi.org/ (223.73.44.62) 1.88ms referer=None
+[W 11:50:09.586 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.94ms referer=None
+[W 21:49:03.321 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.93ms referer=None
+[I 04:17:35.975 NotebookApp] 302 GET / (139.162.83.10) 0.77ms
+[I 06:20:57.856 NotebookApp] 302 GET / (172.105.238.87) 0.90ms
+[W 07:47:24.304 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.91ms referer=None
+[I 14:33:43.142 NotebookApp] 302 GET / (23.225.205.12) 0.60ms
+[I 14:33:43.432 NotebookApp] 302 GET /tree? (23.225.205.12) 0.54ms
+[I 14:33:45.525 NotebookApp] 302 GET / (23.225.205.12) 0.42ms
+[I 14:33:51.794 NotebookApp] 302 GET /tree? (23.225.205.12) 0.76ms
+[W 17:53:40.385 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.60ms referer=None
+[I 22:03:18.978 NotebookApp] 302 GET / (122.228.19.79) 0.55ms
+[I 22:03:19.180 NotebookApp] 302 GET /tree? (122.228.19.79) 0.52ms
+[W 04:05:37.266 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.49ms referer=None
+[I 08:34:17.080 NotebookApp] 302 GET / (185.163.109.66) 0.55ms
+[I 08:34:17.686 NotebookApp] 302 GET /tree (185.163.109.66) 0.73ms
+[I 11:37:48.799 NotebookApp] 302 GET / (185.173.35.29) 0.64ms
+[W 14:09:06.958 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.58ms referer=None
+[W 00:10:25.622 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.59ms referer=None
+[I 01:32:19.308 NotebookApp] 302 GET /terminals/1 (178.32.46.58) 0.66ms
+[W 10:13:50.538 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.60ms referer=None
+[W 20:15:29.468 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 3.32ms referer=None
+[I 20:48:17.573 NotebookApp] 302 GET / (139.162.83.10) 0.66ms
+[W 06:19:23.589 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.50ms referer=None
+[W 16:21:33.542 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.11ms referer=None
+[I 18:37:32.721 NotebookApp] 302 GET / (198.143.155.138) 0.99ms
+[I 18:37:32.866 NotebookApp] 302 GET /tree? (198.143.155.138) 0.84ms
+[I 01:56:51.620 NotebookApp] 302 GET / (154.211.99.189) 0.62ms
+[I 01:56:51.626 NotebookApp] 302 GET /tree? (154.211.99.189) 0.57ms
+[W 02:27:06.351 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.29ms referer=None
+[I 02:28:24.922 NotebookApp] 302 GET / (154.211.99.187) 1.00ms
+[I 02:28:24.932 NotebookApp] 302 GET /tree? (154.211.99.187) 1.20ms
+[W 12:30:43.997 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.60ms referer=None
+[I 15:57:33.011 NotebookApp] 302 GET / (185.173.35.29) 0.67ms
+[W 22:28:48.271 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.62ms referer=None
+[W 05:33:39.250 NotebookApp] 404 GET /v1/wallet/list_keys (193.29.15.60) 2.14ms referer=None
+[W 08:28:12.465 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.88ms referer=None
+[I 12:03:38.984 NotebookApp] 302 GET / (172.105.238.87) 0.74ms
+[I 17:14:36.682 NotebookApp] 302 GET / (117.50.65.167) 0.62ms
+[W 18:26:29.592 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.61ms referer=None
+[W 04:30:59.078 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.01ms referer=None
+[W 10:58:40.431 NotebookApp] 404 GET /manager/html (3.1.200.11) 1.68ms referer=None
+[W 14:32:32.086 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.76ms referer=None
+[I 18:19:16.278 NotebookApp] 302 GET / (139.162.83.10) 1.12ms
+[W 00:32:44.941 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.48ms referer=None
+[I 06:05:13.665 NotebookApp] 302 GET / (172.247.109.127) 0.66ms
+[I 06:05:13.986 NotebookApp] 302 GET /tree? (172.247.109.127) 1.28ms
+[I 06:05:15.588 NotebookApp] 302 GET / (172.247.109.127) 0.83ms
+[I 06:05:15.871 NotebookApp] 302 GET /tree? (172.247.109.127) 0.91ms
+[W 10:34:27.666 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.44ms referer=None
+[W 20:34:54.128 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.56ms referer=None
+[W 06:36:00.024 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.69ms referer=None
+[I 08:03:31.795 NotebookApp] 302 GET / (172.247.55.77) 0.65ms
+[I 08:03:31.888 NotebookApp] 302 GET / (162.209.239.39) 0.59ms
+[I 08:03:32.174 NotebookApp] 302 GET /tree? (162.209.239.39) 0.82ms
+[I 08:03:33.580 NotebookApp] 302 GET /tree? (172.247.55.77) 0.77ms
+[I 08:03:35.632 NotebookApp] 302 GET / (162.209.239.39) 0.63ms
+[I 08:03:36.944 NotebookApp] 302 GET /tree? (162.209.239.39) 0.72ms
+[I 08:03:37.600 NotebookApp] 302 GET / (172.247.55.77) 0.63ms
+[I 08:03:37.909 NotebookApp] 302 GET /tree? (172.247.55.77) 0.76ms
+[W 16:36:04.825 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.57ms referer=None
+[I 21:35:34.918 NotebookApp] 302 GET / (139.162.83.10) 0.61ms
+[I 22:24:57.635 NotebookApp] 302 GET / (185.173.35.29) 0.68ms
+[I 00:33:33.676 NotebookApp] 302 GET /terminals/1 (178.32.46.58) 0.62ms
+[W 02:36:40.078 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.47ms referer=None
+[I 11:20:56.079 NotebookApp] 302 GET / (23.225.121.46) 0.68ms
+[I 11:20:56.387 NotebookApp] 302 GET /tree? (23.225.121.46) 0.77ms
+[I 11:21:01.066 NotebookApp] 302 GET / (23.225.121.46) 0.70ms
+[I 11:21:01.363 NotebookApp] 302 GET /tree? (23.225.121.46) 0.73ms
+[W 12:39:11.471 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.69ms referer=None
+[I 16:07:30.955 NotebookApp] 302 GET / (172.105.238.87) 0.62ms
+[W 22:40:53.909 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.90ms referer=None
+[W 00:42:53.416 NotebookApp] 404 GET /v1/wallet/list_keys (193.29.15.60) 2.27ms referer=None
+[I 07:36:49.799 NotebookApp] 302 GET / (147.47.208.85) 0.55ms
+[I 07:36:49.806 NotebookApp] 302 GET /tree? (147.47.208.85) 0.49ms
+[W 07:39:23.282 NotebookApp] 401 POST /login?next=%2Ftree%3F (147.47.208.85) 1.74ms referer=http://147.46.112.197:8888/login?next=%2Ftree%3F
+[W 07:39:37.872 NotebookApp] 401 POST /login?next=%2Ftree%3F (147.47.208.85) 1.64ms referer=http://147.46.112.197:8888/login?next=%2Ftree%3F
+[W 07:39:39.074 NotebookApp] 401 POST /login?next=%2Ftree%3F (147.47.208.85) 2.80ms referer=http://147.46.112.197:8888/login?next=%2Ftree%3F
